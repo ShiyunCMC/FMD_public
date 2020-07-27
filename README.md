@@ -1,2 +1,2 @@
 # FMD_public
-Code for Experiment 2 in New measures of agency for functional movement disorders
+Code and data for New measures of agency from an adaptive sensorimotor task
